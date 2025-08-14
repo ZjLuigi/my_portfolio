@@ -105,7 +105,7 @@ header {
 }
 
 .background-img {
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)),url('/images/buffet.jpeg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)),url('images/buffet.jpeg');
     background-size: cover;
     /* Ensures the image covers the entire container */
     background-position: center;
@@ -238,32 +238,32 @@ img {
     color: var(--colore_navbar);
 }
 .img1{
-    background-image: url('/images/buffet.jpeg');
+    background-image: url('images/buffet.jpeg');
     background-size: cover; /* Makes the image cover the container */
     background-position: center; 
 }
 .img2{
-    background-image: url('/images/buffet.jpeg');
+    background-image: url('images/buffet.jpeg');
     background-size: cover; /* Makes the image cover the container */
     background-position: center; 
 }
 .img3{
-    background-image: url('/images/antipasti.jpg');
+    background-image: url('images/antipasti.jpg');
     background-size: cover; /* Makes the image cover the container */
     background-position: center; 
 }
 .img4{
-    background-image: url('/images/buffet.jpeg');
+    background-image: url('images/buffet.jpeg');
     background-size: cover; /* Makes the image cover the container */
     background-position: center; 
 }
 .img5{
-    background-image: url('/images/buffet.jpeg');
+    background-image: url('images/buffet.jpeg');
     background-size: cover; /* Makes the image cover the container */
     background-position: center; 
 }
 .img6{
-    background-image: url('/images/buffet.jpeg');
+    background-image: url('images/buffet.jpeg');
     background-size: cover; /* Makes the image cover the container */
     background-position: center; 
 }
